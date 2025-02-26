@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table{
+	width:75%;
+	border-collapse:collapse;
+}
+tr,th, td{
+	width:50;
+	border:1px solid black;
+}
+td{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
+th{
+	background-color:red;
+}
+.first{
+	background-color:lightcoral;
+}
+.second{
+	background-color:aqua;
+}
+.third{
+	background-color:lightblue;
+}
